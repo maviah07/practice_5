@@ -1,2 +1,6 @@
+<<<<<<< HEAD
 This is file from main
 
+=======
+This is a file from feature
+>>>>>>> feature
