@@ -1,6 +1,2 @@
-<<<<<<< HEAD
-This is file from main
+this is resolved
 
-=======
-This is a file from feature
->>>>>>> feature
